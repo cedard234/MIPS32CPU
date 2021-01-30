@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../MIPS32/OpenMIPS.v" \
+"../../../../../MIPS32/ex.v" \
+"../../../../../MIPS32/ex_mem.v" \
+"../../../../../MIPS32/id.v" \
+"../../../../../MIPS32/id_ex.v" \
+"../../../../../MIPS32/if_id.v" \
+"../../../../../MIPS32/inst_rom.v" \
+"../../../../../MIPS32/mem.v" \
+"../../../../../MIPS32/mem_wb.v" \
+"../../../../../MIPS32/pc_reg.v" \
+"../../../../../MIPS32/regfile.v" \
+"../../../../../MIPS32/openmips_min_sopc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

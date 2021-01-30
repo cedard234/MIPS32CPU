@@ -1,0 +1,19 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/83664/Desktop/MIPS32/OpenMIPS.v,1608542964,verilog,,C:/Users/83664/Desktop/MIPS32/ex.v,C:/Users/83664/Desktop/MIPS32/defines.v;C:/Users/83664/Desktop/MIPS32/ex.v;C:/Users/83664/Desktop/MIPS32/ex_mem.v;C:/Users/83664/Desktop/MIPS32/id.v;C:/Users/83664/Desktop/MIPS32/id_ex.v;C:/Users/83664/Desktop/MIPS32/if_id.v;C:/Users/83664/Desktop/MIPS32/mem.v;C:/Users/83664/Desktop/MIPS32/mem_wb.v;C:/Users/83664/Desktop/MIPS32/pc_reg.v;C:/Users/83664/Desktop/MIPS32/regfile.v,openmips,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/OpenMIPS_min_sopc.v,1608542915,verilog,,,C:/Users/83664/Desktop/MIPS32/OpenMIPS.v;C:/Users/83664/Desktop/MIPS32/defines.v,openmips_min_sopc,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/defines.v,1608541922,verilog,,,,,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/ex.v,1608544098,verilog,,C:/Users/83664/Desktop/MIPS32/ex_mem.v,C:/Users/83664/Desktop/MIPS32/defines.v,ex,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/ex_mem.v,1608542537,verilog,,C:/Users/83664/Desktop/MIPS32/id.v,C:/Users/83664/Desktop/MIPS32/defines.v,ex_mem,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/id.v,1608542195,verilog,,C:/Users/83664/Desktop/MIPS32/id_ex.v,C:/Users/83664/Desktop/MIPS32/defines.v,id,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/id_ex.v,1608542353,verilog,,C:/Users/83664/Desktop/MIPS32/if_id.v,C:/Users/83664/Desktop/MIPS32/defines.v,id_ex,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/if_id.v,1608382968,verilog,,C:/Users/83664/Desktop/MIPS32/inst_rom.v,C:/Users/83664/Desktop/MIPS32/defines.v,if_id,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/inst_rom.v,1608540593,verilog,,C:/Users/83664/Desktop/MIPS32/mem.v,C:/Users/83664/Desktop/MIPS32/defines.v,inst_rom,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/mem.v,1608542609,verilog,,C:/Users/83664/Desktop/MIPS32/mem_wb.v,C:/Users/83664/Desktop/MIPS32/defines.v,mem,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/mem_wb.v,1608542683,verilog,,C:/Users/83664/Desktop/MIPS32/pc_reg.v,C:/Users/83664/Desktop/MIPS32/defines.v,mem_wb,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/openmips_min_sopc_tb.v,1608541160,verilog,,,C:/Users/83664/Desktop/MIPS32/OpenMIPS_min_sopc.v,openmips_min_sopc_tb,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/pc_reg.v,1608542031,verilog,,C:/Users/83664/Desktop/MIPS32/regfile.v,C:/Users/83664/Desktop/MIPS32/defines.v,pc_reg,,,,,,,,
+C:/Users/83664/Desktop/MIPS32/regfile.v,1608542161,verilog,,C:/Users/83664/Desktop/MIPS32/openmips_min_sopc_tb.v,C:/Users/83664/Desktop/MIPS32/defines.v,regfile,,,,,,,,
+C:/Users/83664/Desktop/MIPS32_test/MIPS32_test.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
